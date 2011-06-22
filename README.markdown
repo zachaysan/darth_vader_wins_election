@@ -1,1 +1,1 @@
-![I ordered a frappuccino, where's my frappuccino? ](/zachaysan/darth_vader_wins_election/blob/master/darthvader.jpg)
+![I ordered a frappuccino, where's my frappuccino? ](https://github.com/zachaysan/darth_vader_wins_election/blob/master/darthvader.jpg?raw=true)
